@@ -26,6 +26,7 @@
 }
 
 .content img{
+    height:100%;
     width: 100%;
     border-bottom-left-radius: .6rem;
     border-bottom-right-radius: .6rem;
